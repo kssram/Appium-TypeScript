@@ -1,0 +1,13 @@
+{
+  "name": "fixitfasttest",
+  "version": "1.0.0",
+  "description": "fix it fast mocha automation test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha --require ts-node/register --timeout=10000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}

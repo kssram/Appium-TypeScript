@@ -1,0 +1,14 @@
+{
+  "host": "0.0.0.0",
+  "protocol": "http",
+  "port": "4723",
+  "path": "",
+  "desiredCapabilities": {
+    "platformName": "iOS",
+    "platformVersion": "12.1",
+    "deviceName": "iPhone XR",
+    "automationName": "XCUITest",
+    "browserName": "safari"
+
+  }
+}
